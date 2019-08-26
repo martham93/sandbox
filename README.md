@@ -1,3 +1,3 @@
 # sandbox
 
-Open Source Geospatial Machine learning tool exploration. 
+Open Source Geospatial Machine learning tool personal exploration experiments. 
